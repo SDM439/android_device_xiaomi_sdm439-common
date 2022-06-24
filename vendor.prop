@@ -171,3 +171,6 @@ ro.soc.model=SDM439
 
 # Time Services
 persist.timed.enable=true
+
+# Fastbootd
+ro.fastbootd.available=true
